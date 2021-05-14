@@ -34,6 +34,8 @@
     NSLog(@"234234234234234");
     
     NSLog(@"songmengkesongmengkesongmengkegiftgift==========");
+    
+    NSLog(@"slodnflskjdflsdkjf");
     // Do any additional setup after loading the view.
 }
 
