@@ -26,6 +26,7 @@
     NSLog(@"999999");
     NSLog(@"10101010101010110");
     NSLog(@"11111111111111111--------");
+    NSLog(@"121212121212121212--------");
     // Do any additional setup after loading the view.
 }
 
