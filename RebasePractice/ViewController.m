@@ -15,7 +15,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    NSLog(@"end dev-1");
+    NSLog(@"start dev-1");
     NSLog(@"111111111");
     NSLog(@"222222222");
     NSLog(@"333333333");
@@ -28,6 +29,9 @@
     NSLog(@"11111111111111111--------");
     NSLog(@"121212121212121212--------");
     NSLog(@"lsdjnflsknflskdf");
+    NSLog(@"Im king kun");
+    
+    NSLog(@"234234234234234");
     // Do any additional setup after loading the view.
 }
 

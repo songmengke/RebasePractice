@@ -10,5 +10,8 @@
 @interface ViewController : UIViewController
 
 
+@property(nonatomic,assign) NSInteger indexs;
+
+//jsjsjsjsjsjsjsj
 @end
 
