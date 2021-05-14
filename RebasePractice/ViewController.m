@@ -28,6 +28,7 @@
     NSLog(@"11111111111111111--------");
     NSLog(@"121212121212121212--------");
     NSLog(@"lsdjnflsknflskdf");
+    NSLog(@"Im king kun");
     // Do any additional setup after loading the view.
 }
 
