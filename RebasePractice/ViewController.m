@@ -32,6 +32,8 @@
     NSLog(@"Im king kun");
     
     NSLog(@"234234234234234");
+    
+    NSLog(@"songmengkesongmengkesongmengkegiftgift==========");
     // Do any additional setup after loading the view.
 }
 
